@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "adsoft",
+    "database": "analitica-financiera",
+    "host": "35.222.30.102",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "tec",
+    "password": "tec2019",
+    "database": "gamedb",
+    "host": "35.188.104.190",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "tec",
+    "password": "tec2019",
+    "database": "gamedb",
+    "host": "35.188.104.190",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
